@@ -13,6 +13,9 @@
 		<Item Name="DevTests" Type="Folder" URL="../DevTests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="VI build spec" Type="Folder" URL="../VI build spec">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="LabVIEW Universal Transcriptor SD Card Library.lvlib" Type="Library" URL="../LabVIEW Universal Transcriptor SD Card Library.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

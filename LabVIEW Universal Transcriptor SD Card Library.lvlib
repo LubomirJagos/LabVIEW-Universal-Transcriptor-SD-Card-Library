@@ -11,5 +11,6 @@
 	<Item Name="Translator SD Card Library.vi" Type="VI" URL="../Translator SD Card Library.vi"/>
 	<Item Name="begin.vi" Type="VI" URL="../begin.vi"/>
 	<Item Name="open.vi" Type="VI" URL="../open.vi"/>
+	<Item Name="exists.vi" Type="VI" URL="../exists.vi"/>
 	<Item Name="File.lvclass" Type="LVClass" URL="../File.lvclass"/>
 </Library>
