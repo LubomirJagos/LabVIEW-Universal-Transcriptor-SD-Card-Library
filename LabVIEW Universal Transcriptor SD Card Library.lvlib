@@ -10,7 +10,10 @@
 </Property>
 	<Item Name="Translator SD Card Library.vi" Type="VI" URL="../Translator SD Card Library.vi"/>
 	<Item Name="begin.vi" Type="VI" URL="../begin.vi"/>
-	<Item Name="open.vi" Type="VI" URL="../open.vi"/>
 	<Item Name="exists.vi" Type="VI" URL="../exists.vi"/>
+	<Item Name="mkdir.vi" Type="VI" URL="../mkdir.vi"/>
+	<Item Name="open.vi" Type="VI" URL="../open.vi"/>
+	<Item Name="remove.vi" Type="VI" URL="../remove.vi"/>
+	<Item Name="rmdir.vi" Type="VI" URL="../rmdir.vi"/>
 	<Item Name="File.lvclass" Type="LVClass" URL="../File.lvclass"/>
 </Library>
