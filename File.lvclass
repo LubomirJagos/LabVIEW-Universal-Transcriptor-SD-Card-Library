@@ -62,7 +62,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="available.vi" Type="VI" URL="../File Class/available.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%D!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*:GFM:3"O97VF!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6%"Q!"Y!!%-U4'&amp;C6EF&amp;6S"6&lt;GFW:8*T97QA6(*B&lt;H.D=GFQ&gt;'^S)&amp;.%)%.B=G1A4'FC=G&amp;S?3ZM&gt;GRJ9AR';7RF,GRW9WRB=X-!"U:J&lt;'5A;7Y!6!$Q!!Q!!Q!%!!5!"!!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%?!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"Q!(4H6N:8*J9Q!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;2!=!!?!!"$.%RB9F:*26=A67ZJ&gt;G6S=W&amp;M)&amp;2S97ZT9X*J=(2P=C"42#"$98*E)%RJ9H*B=HEO&lt;(:M;7)-2GFM:3ZM&gt;G.M98.T!!&gt;';7RF)'FO!&amp;1!]!!-!!-!"!!&amp;!!1!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -170,13 +170,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="openNextFile.vi" Type="VI" URL="../File Class/openNextFile.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;:!=!!?!!"$.%RB9F:*26=A67ZJ&gt;G6S=W&amp;M)&amp;2S97ZT9X*J=(2P=C"42#"$98*E)%RJ9H*B=HEO&lt;(:M;7)-2GFM:3ZM&gt;G.M98.T!!B';7RF)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!&gt;1"9!!AF325&amp;%)%^/4&amp;E&amp;6V**6%5!"%6O&gt;7U!!&amp;2!=!!?!!"$.%RB9F:*26=A67ZJ&gt;G6S=W&amp;M)&amp;2S97ZT9X*J=(2P=C"42#"$98*E)%RJ9H*B=HEO&lt;(:M;7)-2GFM:3ZM&gt;G.M98.T!!&gt;';7RF)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!A!!!#1!!!!!!%!#1!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;V!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1BT&gt;7.D:8.T0Q!!6E"Q!"Y!!%-U4'&amp;C6EF&amp;6S"6&lt;GFW:8*T97QA6(*B&lt;H.D=GFQ&gt;'^S)&amp;.%)%.B=G1A4'FC=G&amp;S?3ZM&gt;GRJ9AR';7RF,GRW9WRB=X-!#%:J&lt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;2!=!!?!!"$.%RB9F:*26=A67ZJ&gt;G6S=W&amp;M)&amp;2S97ZT9X*J=(2P=C"42#"$98*E)%RJ9H*B=HEO&lt;(:M;7)-2GFM:3ZM&gt;G.M98.T!!&gt;';7RF)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1342177280</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="rewindDirectory.vi" Type="VI" URL="../File Class/rewindDirectory.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%2!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!6%"Q!"Y!!%-U4'&amp;C6EF&amp;6S"6&lt;GFW:8*T97QA6(*B&lt;H.D=GFQ&gt;'^S)&amp;.%)%.B=G1A4'FC=G&amp;S?3ZM&gt;GRJ9AR';7RF,GRW9WRB=X-!"U:J&lt;'5A;7Y!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9#!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!(!!!!!!</Property>
