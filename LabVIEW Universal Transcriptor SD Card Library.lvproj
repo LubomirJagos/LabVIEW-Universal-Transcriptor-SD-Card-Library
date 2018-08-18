@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
-	<Property Name="varPersistentID:{8B973836-6D34-4932-917F-E696A1E2F9ED}" Type="Ref">/My Computer/Dependencies/vi.lib/System Serial Library Variables.lvlib/Serial String Buffer</Property>
-	<Property Name="varPersistentID:{E9D9D93F-1C9E-4B4E-AECB-6BA22F798195}" Type="Ref">/My Computer/Dependencies/vi.lib/System Serial Library Variables.lvlib/Serial Status</Property>
+	<Property Name="varPersistentID:{9DCED0ED-DA20-42D7-A6DE-520947920699}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial String Buffer</Property>
+	<Property Name="varPersistentID:{B3758CC5-D3BB-457F-A7BC-DBDA9AFE5083}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial Status</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -19,7 +19,6 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="LabVIEW Universal Transcriptor SD Card Library.lvlib" Type="Library" URL="../LabVIEW Universal Transcriptor SD Card Library.lvlib"/>
-		<Item Name="System Serial Library Variables.lvlib" Type="Library" URL="../../LabVIEW-Universal-Transcriptor/Transcriptors/System API/System Serial Library Variables/System Serial Library Variables.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -70,7 +69,6 @@
 				<Item Name="SubVI Is Password Locked.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/SubVI Is Password Locked.vi"/>
 				<Item Name="SubVI Translate.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/SubVI Translate.vi"/>
 				<Item Name="System Function Call Translator If Exists.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/System Function Call Translator If Exists.vi"/>
-				<Item Name="System Serial Library Variables.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/System Serial Library Variables/System Serial Library Variables.lvlib"/>
 				<Item Name="Transcriptor LabVIEW to C code Arduino Frontend.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Arduino Frontend.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Composer.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Composer.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Engine 2.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Engine 2.vi"/>
@@ -85,6 +83,7 @@
 				<Item Name="Wire Is Different as WhileLoop EndRef Wire.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/Wire Is Different as WhileLoop EndRef Wire.vi"/>
 			</Item>
 			<Item Name="Serial flush.vi" Type="VI" URL="../../LabVIEW-Universal-Transcriptor/Transcriptors/System API/Serial flush.vi"/>
+			<Item Name="System Serial Library Variables.lvlib" Type="Library" URL="../../LabVIEW-Universal-Transcriptor/Transcriptors/System API/System Serial Library Variables/System Serial Library Variables.lvlib"/>
 			<Item Name="TranscriptorBasicObject.lvclass" Type="LVClass" URL="../../LabVIEW-Universal-Transcriptor/utils/TranscriptorBasicObject.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
