@@ -13,7 +13,9 @@
 			<Item Name="listfiles.ino" Type="Document" URL="../Examples/listfiles/listfiles.ino"/>
 		</Item>
 		<Item Name="listfiles.vi" Type="VI" URL="../Examples/listfiles.vi"/>
+		<Item Name="listfiles2.vi" Type="VI" URL="../Examples/listfiles2.vi"/>
 		<Item Name="printDirectory.vi" Type="VI" URL="../Examples/printDirectory.vi"/>
+		<Item Name="printDirectory2.vi" Type="VI" URL="../Examples/printDirectory2.vi"/>
 		<Item Name="VI to C code.vi" Type="VI" URL="../Examples/VI to C code.vi"/>
 	</Item>
 	<Item Name="Translator SD Card Library.vi" Type="VI" URL="../Translator SD Card Library.vi"/>
