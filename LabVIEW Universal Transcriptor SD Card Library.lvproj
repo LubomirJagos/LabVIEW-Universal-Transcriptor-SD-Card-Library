@@ -15,6 +15,9 @@
 		<Item Name="DevTests" Type="Folder" URL="../DevTests">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="DevTests_Arduino" Type="Folder" URL="../DevTests_Arduino">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="VI build spec" Type="Folder" URL="../VI build spec">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>

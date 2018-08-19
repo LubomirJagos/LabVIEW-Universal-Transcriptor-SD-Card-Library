@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-18 02:43:01" Modified_Date="2018-07-22 03:08:11" Creator="lubo" Comments="" ID="b4002ccf6be011f2adc087b9424dc4e3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-18 02:43:01" Modified_Date="2018-08-20 00:59:10" Creator="lubo" Comments="" ID="d4e183cdc2a0aa7fdccdff76c014c21d">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Universal_Transcriptor_lib_LabVIEW_Universal_Transcriptor_SD_Card_Library</Package_File_Name>
-    <Library_Version>0.1.0.4</Library_Version>
+    <Library_Version>0.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -485,7 +485,7 @@
         <Path>..\File Class\read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>76E2902E3829EC63BE18ED5FEE348D29</GUID>
+      <GUID>6FEA3B5F90316BE5EBBDB2CB7E5284F6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

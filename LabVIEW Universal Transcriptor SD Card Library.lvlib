@@ -10,12 +10,14 @@
 </Property>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="listfiles" Type="Folder">
-			<Item Name="listfiles.ino" Type="Document" URL="../Examples/listfiles/listfiles.ino"/>
+			<Item Name="listfiles_TOP.vi" Type="VI" URL="../Examples/listfiles/listfiles_TOP.vi"/>
+			<Item Name="listfiles2_TOP.vi" Type="VI" URL="../Examples/listfiles/listfiles2_TOP.vi"/>
+			<Item Name="printDirectory.vi" Type="VI" URL="../Examples/listfiles/printDirectory.vi"/>
+			<Item Name="printDirectory2.vi" Type="VI" URL="../Examples/listfiles/printDirectory2.vi"/>
 		</Item>
-		<Item Name="listfiles.vi" Type="VI" URL="../Examples/listfiles.vi"/>
-		<Item Name="listfiles2.vi" Type="VI" URL="../Examples/listfiles2.vi"/>
-		<Item Name="printDirectory.vi" Type="VI" URL="../Examples/printDirectory.vi"/>
-		<Item Name="printDirectory2.vi" Type="VI" URL="../Examples/printDirectory2.vi"/>
+		<Item Name="listfiles__transcripted" Type="Folder">
+			<Item Name="listfiles__transcripted.ino" Type="Document" URL="../Examples/listfiles__transcripted/listfiles__transcripted.ino"/>
+		</Item>
 		<Item Name="VI to C code.vi" Type="VI" URL="../Examples/VI to C code.vi"/>
 	</Item>
 	<Item Name="Translator SD Card Library.vi" Type="VI" URL="../Translator SD Card Library.vi"/>

@@ -130,7 +130,9 @@ void LabVIEW_Universal_Transcriptor_SD_Card_Librarylistfiles(){
     
 }
 
-void setup(){}
+void setup(){
+  LabVIEW_Universal_Transcriptor_SD_Card_Librarylistfiles();
+  }
 void loop(){
-    LabVIEW_Universal_Transcriptor_SD_Card_Librarylistfiles();
+    
 }
