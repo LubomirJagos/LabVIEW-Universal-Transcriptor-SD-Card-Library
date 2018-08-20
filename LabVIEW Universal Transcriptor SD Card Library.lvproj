@@ -1,7 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
-	<Property Name="varPersistentID:{53D26580-C6EE-4D52-A9A4-1B9373AF6590}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial Status</Property>
-	<Property Name="varPersistentID:{78188851-4F16-4A33-B29D-3B988211468D}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial String Buffer</Property>
+	<Property Name="varPersistentID:{57C523A5-E9BE-4E10-885D-32668905C8B5}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial Status</Property>
+	<Property Name="varPersistentID:{874484E0-A5DF-4708-B268-C41D990E0C17}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial String Buffer</Property>
+	<Property Name="varPersistentID:{C9E17859-FAD6-497D-8838-514FA4A21ABE}" Type="Ref"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -79,6 +80,7 @@
 				<Item Name="Transcriptor LabVIEW to C code Step 1 and 2 Wires Declarations and Assignements.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Step 1 and 2 Wires Declarations and Assignements.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Step 3 Translate Elements.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Step 3 Translate Elements.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Step 4 Assign Output Values.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Step 4 Assign Output Values.vi"/>
+				<Item Name="TranscriptorBasicObject.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/TranscriptorBasicObject.lvclass"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="Unbundle Code Cluster.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/Unbundle Code Cluster.vi"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>

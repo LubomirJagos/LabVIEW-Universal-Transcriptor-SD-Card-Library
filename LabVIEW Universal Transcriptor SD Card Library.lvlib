@@ -18,6 +18,10 @@
 		<Item Name="listfiles__transcripted" Type="Folder">
 			<Item Name="listfiles__transcripted.ino" Type="Document" URL="../Examples/listfiles__transcripted/listfiles__transcripted.ino"/>
 		</Item>
+		<Item Name="rewindDirectory" Type="Folder">
+			<Item Name="rewindDirectory_TOP.vi" Type="VI" URL="../Examples/rewindDirectory/rewindDirectory_TOP.vi"/>
+			<Item Name="rewindDir_printDirectory.vi" Type="VI" URL="../Examples/rewindDirectory/rewindDir_printDirectory.vi"/>
+		</Item>
 		<Item Name="VI to C code.vi" Type="VI" URL="../Examples/VI to C code.vi"/>
 	</Item>
 	<Item Name="Translator SD Card Library.vi" Type="VI" URL="../Translator SD Card Library.vi"/>
