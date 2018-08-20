@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
+	<Property Name="varPersistentID:{44B46C0A-CEDD-4CE2-A937-6DE995ED142E}" Type="Ref">/My Computer/LabVIEW Universal Transcriptor SD Card Library.lvlib/rewindDirectoryList</Property>
 	<Property Name="varPersistentID:{57C523A5-E9BE-4E10-885D-32668905C8B5}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial Status</Property>
 	<Property Name="varPersistentID:{874484E0-A5DF-4708-B268-C41D990E0C17}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial String Buffer</Property>
-	<Property Name="varPersistentID:{C9E17859-FAD6-497D-8838-514FA4A21ABE}" Type="Ref"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>

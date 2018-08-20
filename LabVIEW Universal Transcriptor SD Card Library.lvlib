@@ -32,4 +32,13 @@
 	<Item Name="remove.vi" Type="VI" URL="../remove.vi"/>
 	<Item Name="rmdir.vi" Type="VI" URL="../rmdir.vi"/>
 	<Item Name="File.lvclass" Type="LVClass" URL="../File.lvclass"/>
+	<Item Name="rewindDirectoryList" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"1!A!!!!!!#!!V!"Q!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"637ZU-T)!!1!"!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>
