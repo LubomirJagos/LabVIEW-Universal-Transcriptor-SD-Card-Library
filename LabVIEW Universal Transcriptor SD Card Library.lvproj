@@ -1,8 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
 	<Property Name="varPersistentID:{44B46C0A-CEDD-4CE2-A937-6DE995ED142E}" Type="Ref">/My Computer/LabVIEW Universal Transcriptor SD Card Library.lvlib/rewindDirectoryList</Property>
-	<Property Name="varPersistentID:{57C523A5-E9BE-4E10-885D-32668905C8B5}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial Status</Property>
-	<Property Name="varPersistentID:{874484E0-A5DF-4708-B268-C41D990E0C17}" Type="Ref">/My Computer/Dependencies/System Serial Library Variables.lvlib/Serial String Buffer</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -60,6 +58,9 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Reference To UID.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/Reference To UID.vi"/>
 				<Item Name="Serial begin.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/Serial begin.vi"/>
+				<Item Name="Serial println frac number.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/Serial println frac number.vi"/>
+				<Item Name="Serial println integer.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/Serial println integer.vi"/>
+				<Item Name="Serial println string.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/Serial println string.vi"/>
 				<Item Name="Serial println.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/Serial println.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="String Array Concatenate To String.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/String Array Concatenate To String.vi"/>
@@ -73,6 +74,7 @@
 				<Item Name="SubVI Is Password Locked.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/SubVI Is Password Locked.vi"/>
 				<Item Name="SubVI Translate.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/SubVI Translate.vi"/>
 				<Item Name="System Function Call Translator If Exists.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/utils/System Function Call Translator If Exists.vi"/>
+				<Item Name="System Serial Library Variables.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/System API/System Serial Library Variables/System Serial Library Variables.lvlib"/>
 				<Item Name="Transcriptor LabVIEW to C code Arduino Frontend.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Arduino Frontend.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Composer.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Composer.vi"/>
 				<Item Name="Transcriptor LabVIEW to C code Engine 2.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW to Arduino Transcriptor/Transcriptors/2/Transcriptor LabVIEW to C code Engine 2.vi"/>
