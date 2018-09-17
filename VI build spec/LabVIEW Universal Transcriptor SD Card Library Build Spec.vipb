@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-18 02:43:01" Modified_Date="2018-08-26 22:53:50" Creator="lubo" Comments="" ID="0f62a03c399206f2a5a07c33cd5189e2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-18 02:43:01" Modified_Date="2018-09-17 02:12:54" Creator="lubo" Comments="" ID="ea5fd26a129adf09c7f7b8399b7e4f5b">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Universal_Transcriptor_lib_LabVIEW_Universal_Transcriptor_SD_Card_Library</Package_File_Name>
-    <Library_Version>0.1.0.12</Library_Version>
+    <Library_Version>0.1.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -513,7 +513,7 @@
         <Path>..\Example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E09B697D884B88C10717EB597501174E</GUID>
+      <GUID>C38F57D9BAD61BE7ABA9F655A6A1994D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -576,7 +576,7 @@
         <Path>..\File Class\Get If Rewind This Directory.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90A957264DA14F9477986EA1956E8593</GUID>
+      <GUID>79856A8E19B2013E8F982FFDAFD88753</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -625,7 +625,7 @@
         <Path>..\Examples\rewindDirectory\rewindDirectory_TOP.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AA90CCF1145CFFA295E825FB96F4F9D9</GUID>
+      <GUID>C44E8EC3C94C4430343BEFD778FDB844</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
